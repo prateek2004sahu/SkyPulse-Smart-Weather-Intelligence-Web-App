@@ -31,5 +31,3 @@ This project demonstrates front-end web development using HTML, CSS, and JavaScr
 - **Google Maps Embed** – City location visualization  
 
 ---
-
-## 📂 Project Structure
